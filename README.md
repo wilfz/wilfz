@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilfz
-- 👀 Born 1964, 25 years professional developer. Profound experience in MFC, Transact-SQL. Experience in .Net, web-services, PHP and more.
+- 👀 Born 1964, 30 years professional developer. Profound experience in MFC, Transact-SQL. Experience in .Net, web-services, PHP and more.
 - 💞️ Interested in
      - C++
      - ODBC and other database interface technologies.
